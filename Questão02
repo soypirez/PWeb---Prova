@@ -1,0 +1,8 @@
+let cotacaoEuro = 6.18
+let cotacaoDolar = 5.52
+let Real = 50
+const conversaoEuro = Real/cotacaoEuro
+const conversaoDolar = Real/cotacaoDolar
+
+console.log("A conversão em Euros:" (conversaoEuro));
+console.log("A conversão em Dolar:" (conversaoDolar));
