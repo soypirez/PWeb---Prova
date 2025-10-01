@@ -1,0 +1,12 @@
+let n1 = 8
+let n2 = 6
+let media = (n1+n2)/2
+if (media >= 7) {
+    console.log("Aprovado");
+} 
+else if (media >= 4 && media <= 7){
+    console.log("Em recuperação");
+}
+else {
+    console.log("Invalído");
+}
