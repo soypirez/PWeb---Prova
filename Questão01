@@ -1,0 +1,11 @@
+const av1 = 8
+const av2 = 10
+const av3 = 7
+const av4 = 9
+
+const N1 = av1 + av2
+const N2 = av3 + av4
+
+const NF = ((N1*2) + (N2*3))/5
+
+console.log(NF);
