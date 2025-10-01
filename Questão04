@@ -1,0 +1,6 @@
+const salarioBase = 1500.00
+let VHoraExtra = 25.00
+let QHoraExtra = 10
+let salarioTotal = salarioBase + (VHoraExtra*QHoraExtra)
+
+console.log(salarioTotal)
