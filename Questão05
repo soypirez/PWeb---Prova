@@ -1,0 +1,5 @@
+const precoOrig = 120.00
+let pDesconto = 10
+let vDesconto = (precoOrig/100) * pDesconto
+
+console.log("O valor do desconto:"(vDesconto));
